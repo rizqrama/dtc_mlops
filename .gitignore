@@ -1,0 +1,12 @@
+# Virtual Environment
+venv/
+env/
+.env/
+.venv/
+ENV/
+*.pyc
+__pycache__/
+
+# DuckDB files
+*.duckdb
+*.duckdb.wal
