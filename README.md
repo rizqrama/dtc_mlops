@@ -4,7 +4,7 @@ This repository contains my work and assignments for the MLOps Zoomcamp 2025 cou
 
 ## Project Structure
 
-- `duration_pred.py`: NYC Yellow Taxi trip duration prediction model
+- `duration_pred.py`: train model to predict NYC Yellow Taxi trip duration
 - `.gitignore`: Configuration for ignoring virtual environment and DuckDB files
 
 ## Setup
